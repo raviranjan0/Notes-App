@@ -10,4 +10,6 @@ This is a notes app in which you can easily write any notes you want to write an
 - CSS
 - JavaScript
 
+## Thank You for visiting.
+
 
